@@ -1,4 +1,4 @@
-# agentpmt-com
+# AgentPMT
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,198 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agentpmt-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentpmt.com/
+AgentPMT is an AI workflow automation platform that enables users to build, deploy, and manage AI agents for various business use cases. The platform offers tools for creating agent templates, integrating real estate data, generating marketing materials, and orchestrating autonomous AI employees. It provides programmatic API access, webhook management, and a marketplace for agents, aiming to simplify AI-driven automation across industries.
+
+**Areas:** AI · Automation · Workflow · Platform · RealEstate
+
+## AgentPMT on APIs.io
+
+Everything profiled for AgentPMT is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentpmt-com/](https://apis.io/providers/agentpmt-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (71)
+
+- [AgentPMT Activate Products API](https://apis.io/apis/agentpmt-com/agentpmt-com-activate-products-api/) — The Activate Products API from AgentPMT — 1 operation(s) for activate products.
+- [AgentPMT Admin API](https://apis.io/apis/agentpmt-com/agentpmt-com-admin-api/) — The Admin API from AgentPMT — 6 operation(s) for admin.
+- [AgentPMT Agent Directory.json API](https://apis.io/apis/agentpmt-com/agentpmt-com-agent-directory-json-api/) — The Agent Directory.json API from AgentPMT — 1 operation(s) for agent directory.json.
+- [AgentPMT Agents.json API](https://apis.io/apis/agentpmt-com/agentpmt-com-agents-json-api/) — The Agents.json API from AgentPMT — 1 operation(s) for agents.json.
+- [AgentPMT Browser Fleet API](https://apis.io/apis/agentpmt-com/agentpmt-com-browser-fleet-api/) — The browser_fleet API from AgentPMT — 21 operation(s) for browser_fleet.
+- [AgentPMT Browser Identities API](https://apis.io/apis/agentpmt-com/agentpmt-com-browser-identities-api/) — The browser-identities API from AgentPMT — 13 operation(s) for browser-identities.
+- [AgentPMT Browser Proxy Admin API](https://apis.io/apis/agentpmt-com/agentpmt-com-browser-proxy-admin-api/) — The browser-proxy-admin API from AgentPMT — 4 operation(s) for browser-proxy-admin.
+- [AgentPMT Bulk Add Complete Products API](https://apis.io/apis/agentpmt-com/agentpmt-com-bulk-add-complete-products-api/) — The Bulk Add Complete Products API from AgentPMT — 1 operation(s) for bulk add complete products.
+- [AgentPMT Bulk Replace Complete Products API](https://apis.io/apis/agentpmt-com/agentpmt-com-bulk-replace-complete-products-api/) — The Bulk Replace Complete Products API from AgentPMT — 1 operation(s) for bulk replace complete products.
+- [AgentPMT Chat API](https://apis.io/apis/agentpmt-com/agentpmt-com-chat-api/) — The Chat API from AgentPMT — 12 operation(s) for chat.
+- [AgentPMT Circle Challenge Status API](https://apis.io/apis/agentpmt-com/agentpmt-com-circle-challenge-status-api/) — The Circle Challenge Status API from AgentPMT — 1 operation(s) for circle challenge status.
+- [AgentPMT Circle Create User API](https://apis.io/apis/agentpmt-com/agentpmt-com-circle-create-user-api/) — The Circle Create User API from AgentPMT — 1 operation(s) for circle create user.
+- [AgentPMT Circle Create Wallet API](https://apis.io/apis/agentpmt-com/agentpmt-com-circle-create-wallet-api/) — The Circle Create Wallet API from AgentPMT — 1 operation(s) for circle create wallet.
+- [AgentPMT Circle Email Tokens API](https://apis.io/apis/agentpmt-com/agentpmt-com-circle-email-tokens-api/) — The Circle Email Tokens API from AgentPMT — 1 operation(s) for circle email tokens.
+- [AgentPMT Circle Generate User Token API](https://apis.io/apis/agentpmt-com/agentpmt-com-circle-generate-user-token-api/) — The Circle Generate User Token API from AgentPMT — 1 operation(s) for circle generate user token.
+- [AgentPMT Circle Get User Token API](https://apis.io/apis/agentpmt-com/agentpmt-com-circle-get-user-token-api/) — The Circle Get User Token API from AgentPMT — 1 operation(s) for circle get user token.
+- [AgentPMT Circle Initialize User API](https://apis.io/apis/agentpmt-com/agentpmt-com-circle-initialize-user-api/) — The Circle Initialize User API from AgentPMT — 1 operation(s) for circle initialize user.
+- [AgentPMT Circle List Wallets API](https://apis.io/apis/agentpmt-com/agentpmt-com-circle-list-wallets-api/) — The Circle List Wallets API from AgentPMT — 1 operation(s) for circle list wallets.
+- [AgentPMT Circle Pin Setup API](https://apis.io/apis/agentpmt-com/agentpmt-com-circle-pin-setup-api/) — The Circle Pin Setup API from AgentPMT — 1 operation(s) for circle pin setup.
+- [AgentPMT Circle Verify Otp API](https://apis.io/apis/agentpmt-com/agentpmt-com-circle-verify-otp-api/) — The Circle Verify Otp API from AgentPMT — 1 operation(s) for circle verify otp.
+- [AgentPMT Create Jwt Token API](https://apis.io/apis/agentpmt-com/agentpmt-com-create-jwt-token-api/) — The Create Jwt Token API from AgentPMT — 1 operation(s) for create jwt token.
+- [AgentPMT Create New Product API](https://apis.io/apis/agentpmt-com/agentpmt-com-create-new-product-api/) — The Create New Product API from AgentPMT — 1 operation(s) for create new product.
+- [AgentPMT Credits API](https://apis.io/apis/agentpmt-com/agentpmt-com-credits-api/) — The Credits API from AgentPMT — 2 operation(s) for credits.
+- [AgentPMT Crypto API](https://apis.io/apis/agentpmt-com/agentpmt-com-crypto-api/) — The crypto API from AgentPMT — 2 operation(s) for crypto.
+- [AgentPMT Discord Channels API](https://apis.io/apis/agentpmt-com/agentpmt-com-discord-channels-api/) — The Discord Channels API from AgentPMT — 1 operation(s) for discord channels.
+- [AgentPMT Discord Notification API](https://apis.io/apis/agentpmt-com/agentpmt-com-discord-notification-api/) — The Discord Notification API from AgentPMT — 1 operation(s) for discord notification.
+- [AgentPMT Embed Query API](https://apis.io/apis/agentpmt-com/agentpmt-com-embed-query-api/) — The Embed Query API from AgentPMT — 1 operation(s) for embed query.
+- [AgentPMT Embed Text API](https://apis.io/apis/agentpmt-com/agentpmt-com-embed-text-api/) — The Embed Text API from AgentPMT — 1 operation(s) for embed text.
+- [AgentPMT External Agents API](https://apis.io/apis/agentpmt-com/agentpmt-com-external-agents-api/) — The External Agents API from AgentPMT — 26 operation(s) for external agents.
+- [AgentPMT Fetch Products API](https://apis.io/apis/agentpmt-com/agentpmt-com-fetch-products-api/) — The Fetch Products API from AgentPMT — 1 operation(s) for fetch products.
+- [AgentPMT Get Product Topic Words API](https://apis.io/apis/agentpmt-com/agentpmt-com-get-product-topic-words-api/) — The Get Product Topic Words API from AgentPMT — 1 operation(s) for get product topic words.
+- [AgentPMT Health API](https://apis.io/apis/agentpmt-com/agentpmt-com-health-api/) — The Health API from AgentPMT — 1 operation(s) for health.
+- [AgentPMT Internal Admin API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-admin-api/) — The internal-admin API from AgentPMT — 2 operation(s) for internal-admin.
+- [AgentPMT Internal API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-api/) — The Internal API from AgentPMT — 27 operation(s) for internal.
+- [AgentPMT Internal Browser Desktop Health API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-browser-desktop-health-api/) — The internal-browser-desktop-health API from AgentPMT — 1 operation(s) for internal-browser-desktop-health.
+- [AgentPMT Internal Browser Tenant Reconcile API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-browser-tenant-reconcile-api/) — The internal-browser-tenant-reconcile API from AgentPMT — 1 operation(s) for internal-browser-tenant-reconcile.
+- [AgentPMT Internal Catalog Search API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-catalog-search-api/) — The internal-catalog-search API from AgentPMT — 11 operation(s) for internal-catalog-search.
+- [AgentPMT Internal Errors API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-errors-api/) — The internal-errors API from AgentPMT — 3 operation(s) for internal-errors.
+- [AgentPMT Internal External MCP Refresh API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-external-mcp-refresh-api/) — The internal-external-mcp-refresh API from AgentPMT — 1 operation(s) for internal-external-mcp-refresh.
+- [AgentPMT Internal File Proxy API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-file-proxy-api/) — The internal-file-proxy API from AgentPMT — 2 operation(s) for internal-file-proxy.
+- [AgentPMT Internal Handlers API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-handlers-api/) — The Internal Handlers API from AgentPMT — 1 operation(s) for internal handlers.
+- [AgentPMT Internal Jobs API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-jobs-api/) — The Internal Jobs API from AgentPMT — 1 operation(s) for internal jobs.
+- [AgentPMT Internal OAUTH Refresh API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-oauth-refresh-api/) — The internal-oauth-refresh API from AgentPMT — 1 operation(s) for internal-oauth-refresh.
+- [AgentPMT Internal Tasks API](https://apis.io/apis/agentpmt-com/agentpmt-com-internal-tasks-api/) — The internal-tasks API from AgentPMT — 3 operation(s) for internal-tasks.
+- [AgentPMT Issues API](https://apis.io/apis/agentpmt-com/agentpmt-com-issues-api/) — The Issues API from AgentPMT — 1 operation(s) for issues.
+- [AgentPMT Log Record Activity API](https://apis.io/apis/agentpmt-com/agentpmt-com-log-record-activity-api/) — The Log Record Activity API from AgentPMT — 1 operation(s) for log record activity.
+- [AgentPMT MCP API](https://apis.io/apis/agentpmt-com/agentpmt-com-mcp-api/) — The Mcp API from AgentPMT — 10 operation(s) for mcp.
+- [AgentPMT Mcp.json API](https://apis.io/apis/agentpmt-com/agentpmt-com-mcp-json-api/) — The Mcp.json API from AgentPMT — 1 operation(s) for mcp.json.
+- [AgentPMT Merkle API](https://apis.io/apis/agentpmt-com/agentpmt-com-merkle-api/) — The Merkle API from AgentPMT — 6 operation(s) for merkle.
+- [AgentPMT OAuth API](https://apis.io/apis/agentpmt-com/agentpmt-com-oauth-api/) — The Oauth API from AgentPMT — 6 operation(s) for oauth.
+- [AgentPMT Products API](https://apis.io/apis/agentpmt-com/agentpmt-com-products-api/) — The Products API from AgentPMT — 4 operation(s) for products.
+- [AgentPMT Public API](https://apis.io/apis/agentpmt-com/agentpmt-com-public-api/) — The Public API from AgentPMT — 1 operation(s) for public.
+- [AgentPMT Search Products API](https://apis.io/apis/agentpmt-com/agentpmt-com-search-products-api/) — The Search Products API from AgentPMT — 1 operation(s) for search products.
+- [AgentPMT Send Email API](https://apis.io/apis/agentpmt-com/agentpmt-com-send-email-api/) — The Send Email API from AgentPMT — 1 operation(s) for send email.
+- [AgentPMT Skill Publications API](https://apis.io/apis/agentpmt-com/agentpmt-com-skill-publications-api/) — The skill-publications API from AgentPMT — 1 operation(s) for skill-publications.
+- [AgentPMT Test API](https://apis.io/apis/agentpmt-com/agentpmt-com-test-api/) — The Test API from AgentPMT — 1 operation(s) for test.
+- [AgentPMT Unified Payment Contract Public API](https://apis.io/apis/agentpmt-com/agentpmt-com-unifiedpaymentcontractpublic-api/) — The UnifiedPaymentContractPublic API from AgentPMT — 25 operation(s) for unifiedpaymentcontractpublic.
+- [AgentPMT Update Product API](https://apis.io/apis/agentpmt-com/agentpmt-com-update-product-api/) — The Update Product API from AgentPMT — 1 operation(s) for update product.
+- [AgentPMT Validate Schema API](https://apis.io/apis/agentpmt-com/agentpmt-com-validate-schema-api/) — The Validate Schema API from AgentPMT — 1 operation(s) for validate schema.
+- [AgentPMT Validate Schemas API](https://apis.io/apis/agentpmt-com/agentpmt-com-validate-schemas-api/) — The Validate Schemas API from AgentPMT — 1 operation(s) for validate schemas.
+- [AgentPMT Vectorize Agents API](https://apis.io/apis/agentpmt-com/agentpmt-com-vectorize-agents-api/) — The Vectorize Agents API from AgentPMT — 1 operation(s) for vectorize agents.
+- [AgentPMT Vectorize Categories API](https://apis.io/apis/agentpmt-com/agentpmt-com-vectorize-categories-api/) — The Vectorize Categories API from AgentPMT — 1 operation(s) for vectorize categories.
+- [AgentPMT Vectorize Products API](https://apis.io/apis/agentpmt-com/agentpmt-com-vectorize-products-api/) — The Vectorize Products API from AgentPMT — 1 operation(s) for vectorize products.
+- [AgentPMT Vectorize Website Content API](https://apis.io/apis/agentpmt-com/agentpmt-com-vectorize-website-content-api/) — The Vectorize Website Content API from AgentPMT — 1 operation(s) for vectorize website content.
+- [AgentPMT Vectorize Workflows API](https://apis.io/apis/agentpmt-com/agentpmt-com-vectorize-workflows-api/) — The Vectorize Workflows API from AgentPMT — 1 operation(s) for vectorize workflows.
+- [AgentPMT Verify Api Key API](https://apis.io/apis/agentpmt-com/agentpmt-com-verify-api-key-api/) — The Verify Api Key API from AgentPMT — 1 operation(s) for verify api key.
+- [AgentPMT Verify Jwt Token API](https://apis.io/apis/agentpmt-com/agentpmt-com-verify-jwt-token-api/) — The Verify Jwt Token API from AgentPMT — 1 operation(s) for verify jwt token.
+- [AgentPMT .well Known API](https://apis.io/apis/agentpmt-com/agentpmt-com-well-known-api/) — The .well Known API from AgentPMT — 16 operation(s) for .well known.
+- [AgentPMT Workflow Preview Images API](https://apis.io/apis/agentpmt-com/agentpmt-com-workflow-preview-images-api/) — The workflow-preview-images API from AgentPMT — 3 operation(s) for workflow-preview-images.
+- [AgentPMT Workflow Runs API](https://apis.io/apis/agentpmt-com/agentpmt-com-workflow-runs-api/) — The workflow-runs API from AgentPMT — 1 operation(s) for workflow-runs.
+- [AgentPMT Workflow Skill Publications API](https://apis.io/apis/agentpmt-com/agentpmt-com-workflow-skill-publications-api/) — The workflow-skill-publications API from AgentPMT — 1 operation(s) for workflow-skill-publications.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Agentpmt Com Agentic Access](https://apis.io/agentic-access/agentpmt-com/agentpmt-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Body_bysig_apply_wallet_update_upc_by_sig_apply_wallet_update_post](https://apis.io/schemas/agentpmt-com/agentpmt-com-body-bysig-apply-wallet-update-upc-by-sig-apply-wallet-update-post/)
+- [FrontendErrorPayload](https://apis.io/schemas/agentpmt-com/agentpmt-com-frontend-error-payload/)
+- [OAuthAuthorizationServerMetadata](https://apis.io/schemas/agentpmt-com/agentpmt-com-oauth-authorization-server-metadata/)
+- [OAuthClientRegistrationResponse](https://apis.io/schemas/agentpmt-com/agentpmt-com-oauth-client-registration-response/)
+- [ProductCreateRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-product-create-request/)
+- [ProductUpdateRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-product-update-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agentpmt Com Context](https://apis.io/jsonld/agentpmt-com/agentpmt-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AgentPMT API Rules](https://apis.io/rules/agentpmt-com/agentpmt-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentpmt Com Authentication](https://apis.io/security/agentpmt-com/agentpmt-com-authentication/)
+- [Agentpmt Com Domain Security](https://apis.io/security/agentpmt-com/agentpmt-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agentpmt Com Plans Pricing](https://apis.io/plans/agentpmt-com/agentpmt-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentpmt.com/)
+- [Documentation](https://www.agentpmt.com/docs)
+- [Getting started](https://www.agentpmt.com/docs/getting-started)
+- [API reference](https://www.agentpmt.com/docs/api-reference/programmatic-access)
+- [Pricing](https://www.agentpmt.com/pricing)
+- [Blog](https://www.agentpmt.com/articles)
+- [Terms of service](https://www.agentpmt.com/terms)
+- [Privacy policy](https://www.agentpmt.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 56.3** — strong · rubric 0.25.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 55.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 66.0 |
+| Access clarity | 60.0 |
+
+**Agent readiness 60.8** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentpmt-com/](https://apis.io/providers/agentpmt-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AgentPMT: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentpmt-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
