@@ -66,7 +66,7 @@
 
 AgentPMT is an AI workflow automation platform that enables users to build, deploy, and manage AI agents for various business use cases. The platform offers tools for creating agent templates, integrating real estate data, generating marketing materials, and orchestrating autonomous AI employees. It provides programmatic API access, webhook management, and a marketplace for agents, aiming to simplify AI-driven automation across industries.
 
-**Areas:** AI · Automation · Workflow · Platform · RealEstate
+**Areas:** Artificial Intelligence · Automation · Workflows · Platform · Real Estate
 
 ## AgentPMT on APIs.io
 
@@ -154,18 +154,38 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentpmt Com Agentic Access](https://apis.io/agentic-access/agentpmt-com/agentpmt-com-agentic-access/)
+- [AgentPMT Agentic Access](https://apis.io/agentic-access/agentpmt-com/agentpmt-com-agentic-access/)
 
-#### JSON Schema (6)
+#### JSON Schema (66)
 
 The data models the API reads and writes.
 
+- [AdminChatCompletionRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-admin-chat-completion-request/)
+- [AdminCreateJobRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-admin-create-job-request/)
+- [AgentDiscoveryManifest](https://apis.io/schemas/agentpmt-com/agentpmt-com-agent-discovery-manifest/)
+- [Body_add_custom_addresses_merkle_custom_add_post](https://apis.io/schemas/agentpmt-com/agentpmt-com-body-add-custom-addresses-merkle-custom-add-post/)
+- [Body_add_verified_addresses_merkle_verified_add_post](https://apis.io/schemas/agentpmt-com/agentpmt-com-body-add-verified-addresses-merkle-verified-add-post/)
 - [Body_bysig_apply_wallet_update_upc_by_sig_apply_wallet_update_post](https://apis.io/schemas/agentpmt-com/agentpmt-com-body-bysig-apply-wallet-update-upc-by-sig-apply-wallet-update-post/)
-- [FrontendErrorPayload](https://apis.io/schemas/agentpmt-com/agentpmt-com-frontend-error-payload/)
-- [OAuthAuthorizationServerMetadata](https://apis.io/schemas/agentpmt-com/agentpmt-com-oauth-authorization-server-metadata/)
-- [OAuthClientRegistrationResponse](https://apis.io/schemas/agentpmt-com/agentpmt-com-oauth-client-registration-response/)
-- [ProductCreateRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-product-create-request/)
-- [ProductUpdateRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-product-update-request/)
+- [Body_merkle_branch_merkle_branch_post](https://apis.io/schemas/agentpmt-com/agentpmt-com-body-merkle-branch-merkle-branch-post/)
+- [Body_merkle_build_merkle_build_post](https://apis.io/schemas/agentpmt-com/agentpmt-com-body-merkle-build-merkle-build-post/)
+- [Body_remove_custom_addresses_merkle_custom_remove_post](https://apis.io/schemas/agentpmt-com/agentpmt-com-body-remove-custom-addresses-merkle-custom-remove-post/)
+- [Body_remove_verified_addresses_merkle_verified_remove_post](https://apis.io/schemas/agentpmt-com/agentpmt-com-body-remove-verified-addresses-merkle-verified-remove-post/)
+- [Body_upload_image_endpoint_internal_upload_image_post](https://apis.io/schemas/agentpmt-com/agentpmt-com-body-upload-image-endpoint-internal-upload-image-post/)
+- [BudgetProductSearchRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-budget-product-search-request/)
+- [CancelCaptureStartRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-cancel-capture-start-request/)
+- [CardActionRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-card-action-request/)
+- [ChatCompletionRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-chat-completion-request/)
+- [ChatReminderTask](https://apis.io/schemas/agentpmt-com/agentpmt-com-chat-reminder-task/)
+- [CircleBroadcastTwaRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-circle-broadcast-twa-request/)
+- [CustomerCreditBalanceResponse](https://apis.io/schemas/agentpmt-com/agentpmt-com-customer-credit-balance-response/)
+- [CustomerCreditHistoryResponse](https://apis.io/schemas/agentpmt-com/agentpmt-com-customer-credit-history-response/)
+- [DecryptRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-decrypt-request/)
+- [DecryptResponse](https://apis.io/schemas/agentpmt-com/agentpmt-com-decrypt-response/)
+- [DedicatedOwnerRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-dedicated-owner-request/)
+- [DiscordNotificationPayload](https://apis.io/schemas/agentpmt-com/agentpmt-com-discord-notification-payload/)
+- [EmbedQueryRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-embed-query-request/)
+- [EmbedTextBatchRequest](https://apis.io/schemas/agentpmt-com/agentpmt-com-embed-text-batch-request/)
+- …and 41 more published on APIs.io
 
 #### JSON-LD (1)
 
@@ -183,14 +203,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentpmt Com Authentication](https://apis.io/security/agentpmt-com/agentpmt-com-authentication/)
-- [Agentpmt Com Domain Security](https://apis.io/security/agentpmt-com/agentpmt-com-domain-security/)
+- [AgentPMT Authentication](https://apis.io/security/agentpmt-com/agentpmt-com-authentication/)
+- [AgentPMT Domain Security](https://apis.io/security/agentpmt-com/agentpmt-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentpmt Com Plans Pricing](https://apis.io/plans/agentpmt-com/agentpmt-com-plans-pricing/)
+- [AgentPMT Plans Pricing](https://apis.io/plans/agentpmt-com/agentpmt-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -207,32 +227,32 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 56.3** — strong · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 54.6** — strong · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 73.2 |
 | Contract quality | 55.5 |
-| Contract governance | 79.1 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 66.0 |
-| Access clarity | 60.0 |
+| Developer ergonomics | 61.3 |
+| Access clarity | 63.8 |
 
-**Agent readiness 60.8** — agent-native
+**Agent readiness 50.2** — agent-native
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | verified |
 | Error Semantics | verified |
 | OpenAPI Examples | partial |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | derived (partial credit) |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
@@ -243,8 +263,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentpmt-com/](https://apis.io/providers/agentpmt-com/).
 
